@@ -12,4 +12,4 @@ Add the attribute `hx-ext="<extension name>"` to either the element to be modifi
 Add the necessary attributes listed in [the docs](https://htmxify.com).
 
 ## License
-The `htmxify.min.js` file contains source code from Handlebars (with the appropriate MIT copyright notice). All code in this repository is also under the MIT license.
+All code in this repository is also under the MIT license.
